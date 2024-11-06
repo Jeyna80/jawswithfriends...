@@ -1,2 +1,2 @@
 # jawswithfriends...
-remote/copy
+copy
